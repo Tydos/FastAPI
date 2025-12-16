@@ -3,3 +3,5 @@ pydantic
 uvicorn
 pymongo[srv]
 python-dotenv
+__pycache__/
+*.pyc
